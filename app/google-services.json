@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741958142711",
+    "project_id": "theroute-bee14",
+    "storage_bucket": "theroute-bee14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741958142711:android:b5c850262b7f6154e5e1f2",
+        "android_client_info": {
+          "package_name": "com.example.theroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741958142711-pbdaia8bb9k8op9m5qflissscp6jug00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mKwJBNTXcI-tS3tf-hXb38lQf6S_gbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741958142711-pbdaia8bb9k8op9m5qflissscp6jug00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

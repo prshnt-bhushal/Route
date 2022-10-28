@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">The Route</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="registerNow">Register Now!</string>
+    <string name="username">Username</string>
+    <string name="logo_route">This is the logo of TheRoute</string>
+    <string name="todo">TODO</string>
+    <string name="password1">Password</string>
+    <string name="email">E-mail</string>
+    <string name="e_mail1">E-mail</string>
+    <string name="login">login</string>
+    <string name="welcome">Welcome</string>
+    <string name="signin">Sign In</string>
+    <string name="register">Register</string>
+    <string name="already">Already have an account?</string>
+    <string name="userlocationlogo">user location logo</string>
+    <string name="image_1">Route Logo</string>
+    <string name="create">Create an account</string>
+    <string name="register_now">Register now</string>
+    <string name="userlocation">Location of user in main page</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <!--<string name="checked">Proceed to login?</string>-->
+    <string name="forgetPassword">forget your password?</string>
+    <string name="main_page_logo">This is the logo of Maiin page</string>
+    <string name="openmap">Map</string>
+    <string name="route_options">This is logo for route options</string>
+    <string name="main_logo">This is the logo of mainpage</string>
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required.</string>
+    <string-array name="Destinationoptions">
+        <item>Chandragiri</item>
+        <item>Sundarijal</item>
+        <item>Sanga</item>
+        <item>Ratnapark</item>
+        <item>Champadevi</item>
+        <item>Kalanki</item>
+        <item>Pilot Baba</item>
+        <item>Doleswor Mahadev</item>
+        <item>Nagarkot</item>
+        <item>Dhulikhel</item>
+    </string-array>
+    <string-array name="busOptionsForChandragiri">
+        <item>Thankot</item>
+        <item>Kalanki</item>
+        <item>Kalimati</item>
+        <item>Purano BusPark</item>
+        <item>Ratnapark</item>
+        <item>Koteswor</item>
+        <item>Lagankhel</item>
+        <item>Naya BusPark</item>
+    </string-array>
+    <string-array name="busOptionsForSundarijal">
+        <item>Purano BusPark</item>
+        <item>Naya BusPark</item>
+        <item>RatnaPark</item>
+        <item>Chakrapat</item>
+        <item>Koteswor</item>
+        <item>Gausala</item>
+    </string-array>
+    <string-array name="busOptionsForSanga">
+        <item>Kamalvinayek</item>
+        <item>Purano Buspark</item>
+        <item>Naya BusPark</item>
+        <item>RatnaPark</item>
+        <item>Koteswor</item>
+        <item>Lagankhel</item>
+        <item>Baneshwor</item>
+        <item>MaitiGhar</item>
+    </string-array>
+    <string-array name="busOptionsForRatnaPark">
+        <item>Thankot</item>
+        <item>Koteswor</item>
+        <item>Baneshwor</item>
+        <item>Lagankhel</item>
+        <item>Kalanki</item>
+        <item>Kalimati</item>
+        <item>Balkhu</item>
+        <item>Naya BusPark</item>
+    </string-array>
+    <string-array name="busOptionsForChampadevi">
+        <item>Lagankhel</item>
+        <item>Purano BusPark</item>
+        <item>EkantaKuna</item>
+        <item>Ratnapark</item>
+    </string-array>
+    <string-array name="busOptionsForKalanki">
+        <item>Thankot</item>
+        <item>Kalimati</item>
+        <item>Purano BusPark</item>
+        <item>Naya BusPark</item>
+        <item>RatnaPark</item>
+        <item>Baneshwor</item>
+        <item>Lagankhel</item>
+        <item>Tikathali</item>
+        <item>Pepsicola</item>
+    </string-array>
+    <string-array name="busOptionsForPilotBaba">
+        <item>kamalvinayek</item>
+        <item>Purano BusPark</item>
+        <item>Koteswor</item>
+        <item>RatnaPark</item>
+        <item>Baneshwor</item>
+        <item>SuryaBinayek</item>
+    </string-array>
+    <string-array name="busOptionsForDoleshworMahadev">
+        <item>Kamalvinayek</item>
+        <item>Purano BusPark</item>
+        <item>Koteswor</item>
+        <item>RatnaPark</item>
+        <item>Baneshwor</item>
+        <item>SuryaBinayek</item>
+    </string-array>
+    <string-array name="busOptionsForNagarkot">
+        <item>Kamalvinayek</item>
+    </string-array>
+    <string-array name="busOptionsForDhulikhel">
+        <item>Kamalvinayek</item>
+        <item>Purano BusPark</item>
+        <item>Naya BusPark</item>
+        <item>RatnaPark</item>
+        <item>Koteswor</item>
+        <item>Lagankhel</item>
+        <item>Baneshwor</item>
+        <item>MaitiGhar</item>
+        <item>Kalanki</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_choose_your_bus">Vehicles</string>
+    <string name="title_activity_choose_your_route">Options For You</string>
+    <string name="log_out">Log Out</string>
+    <string name="profile">Your Profile</string>
+    <string name="username2">Username:</string>
+    <string name="email2">Email:</string>
+    <string name="password2">Password:</string>
+    <string name="resetpassword2">"Reset Your Password By clicking on Reset "</string>
+    <string name="reset">Reset</string>
+    <string name="thankyou">Thank You For Using Our App -TeamRoute</string>
+    <!--below data are for bus option -->
+    <string name="bha">Here lies the Bus Number if it helps</string>
+    <string name="des">Here lies the Discription of bus</string>
+    <string name="busname">Here lies the Name of bus</string>
+    <string name="messageforuser">To use this feature<b>(To see bus options)</b> Make sure you are <b><i><u>connected to Internet</u></i></b></string>
+    <string name="messageforuser1"> <i>Inside a map <b>Red Pin</b> indicate Your Destination and <b>BusIcon</b> indicate BusStands.</i></string>
+    <string name="destination1">Destination Icon</string>
+    <string name="destinationtxt">Your Destination</string>
+    <string name="destination2">Bus Stand Icon</string>
+    <string name="destinationtxt2">Bus Stand</string>
+    <string name="others_features">Others</string>
+    <string name="newfeatures">Useful Features</string>
+    <string name="calculator">Calculator</string>
+    <string name="newtoadd">More..</string>
+    <string name="tic_tac_toe">Tic-Tac-Toe</string>
+    <string name="snake">Snake</string>
+    <string name="games">Games</string>
+
+</resources>
